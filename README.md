@@ -110,7 +110,7 @@ loan-default-risk-analysis/
 ├── SQL_query_file.sql
 ├── BFSI_Risk.ipynb
 ├── Loan_Default_Risk_Dashboard.pbit
-└── screenshots/
+└── Screenshots/
     ├── page1_portfolio_health.png
     ├── page2_risk_segmentation.png
     ├── page3_demographics_regional.png
