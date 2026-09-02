@@ -85,16 +85,19 @@ To deliver a 4-page interactive Power BI report that:
 ## 📸 Screenshots / Demos
 
 **Portfolio Health**
-![Portfolio Health](Screenshots/page1_portfolio_health.png)
+![Portfolio Health](Screenshots/Screenshot%202026-09-01%20202006.png)
 
-**Risk Segmentation Analysis**
-![Risk Segmentation](Screenshots/page2_risk_segmentation.png)
+**Risk Segmentation Analysis — Summary View**
+![Risk Segmentation Summary](Screenshots/Screenshot%202026-09-01%20202018.png)
+
+**Risk Segmentation Analysis — Detailed Breakdown (Matrix)**
+![Risk Segmentation Detailed](Screenshots/Screenshot%202026-09-01%20202033.png)
 
 **Demographics & Regional Analysis**
-![Demographics & Regional Analysis](Screenshots/page3_demographics_regional.png)
+![Demographics & Regional Analysis](Screenshots/Screenshot%202026-09-01%20202044.png)
 
 **Financial Behavior & Risk Scoring**
-![Financial Behavior & Risk Scoring](Screenshots/page4_financial_behavior.png)
+![Financial Behavior & Risk Scoring](Screenshots/Screenshot%202026-09-01%20202053.png)
 
 🎥 **Watch the interactive dashboard demo (with live slicer filtering):** [LinkedIn Post Link]
 
@@ -105,16 +108,17 @@ To deliver a 4-page interactive Power BI report that:
 ## 📁 Repository Structure
 
 ```
-loan-default-risk-analysis/
+loan-default-risk-analytics/
 ├── README.md
-├── SQL_query_file.sql
-├── BFSI_Risk.ipynb
+├── SQL query file.sql
+├── BFSI Risk.ipynb
 ├── Loan_Default_Risk_Dashboard.pbit
 └── Screenshots/
-    ├── page1_portfolio_health.png
-    ├── page2_risk_segmentation.png
-    ├── page3_demographics_regional.png
-    └── page4_financial_behavior.png
+    ├── Screenshot 2026-09-01 202006.png
+    ├── Screenshot 2026-09-01 202018.png
+    ├── Screenshot 2026-09-01 202033.png
+    ├── Screenshot 2026-09-01 202044.png
+    └── Screenshot 2026-09-01 202053.png
 ```
 
 ---
