@@ -85,16 +85,16 @@ To deliver a 4-page interactive Power BI report that:
 ## 📸 Screenshots / Demos
 
 **Portfolio Health**
-![Portfolio Health](screenshots/page1_portfolio_health.png)
+![Portfolio Health](Screenshots/page1_portfolio_health.png)
 
 **Risk Segmentation Analysis**
-![Risk Segmentation](screenshots/page2_risk_segmentation.png)
+![Risk Segmentation](Screenshots/page2_risk_segmentation.png)
 
 **Demographics & Regional Analysis**
-![Demographics & Regional Analysis](screenshots/page3_demographics_regional.png)
+![Demographics & Regional Analysis](Screenshots/page3_demographics_regional.png)
 
 **Financial Behavior & Risk Scoring**
-![Financial Behavior & Risk Scoring](screenshots/page4_financial_behavior.png)
+![Financial Behavior & Risk Scoring](Screenshots/page4_financial_behavior.png)
 
 🎥 **Watch the interactive dashboard demo (with live slicer filtering):** [LinkedIn Post Link]
 
