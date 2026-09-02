@@ -84,12 +84,17 @@ To deliver a 4-page interactive Power BI report that:
 
 ## 📸 Screenshots / Demos
 
-| Page | Preview |
-|---|---|
-| Portfolio Health | `screenshots/page1_portfolio_health.png` |
-| Risk Segmentation | `screenshots/page2_risk_segmentation.png` |
-| Demographics & Regional Analysis | `screenshots/page3_demographics_regional.png` |
-| Financial Behavior & Risk Scoring | `screenshots/page4_financial_behavior.png` |
+**Portfolio Health**
+![Portfolio Health](screenshots/page1_portfolio_health.png)
+
+**Risk Segmentation Analysis**
+![Risk Segmentation](screenshots/page2_risk_segmentation.png)
+
+**Demographics & Regional Analysis**
+![Demographics & Regional Analysis](screenshots/page3_demographics_regional.png)
+
+**Financial Behavior & Risk Scoring**
+![Financial Behavior & Risk Scoring](screenshots/page4_financial_behavior.png)
 
 🎥 **Watch the interactive dashboard demo (with live slicer filtering):** [LinkedIn Post Link]
 
@@ -116,4 +121,6 @@ loan-default-risk-analysis/
 
 ## 🔗 Connect
 
-If you're working in BFSI / risk analytics and have feedback on this project, I'd love to hear it — feel free to reach out on [LinkedIn].
+If you're working in BFSI / risk analytics and have feedback on this project, I'd love to hear it — feel free to reach out.
+
+📌 [LinkedIn Profile](https://www.linkedin.com/in/bijalwanankit)
